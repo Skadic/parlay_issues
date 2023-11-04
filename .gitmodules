@@ -1,0 +1,3 @@
+[submodule "parlayhash"]
+	path = parlayhash
+	url = https://github.com/cmuparlay/parlayhash
